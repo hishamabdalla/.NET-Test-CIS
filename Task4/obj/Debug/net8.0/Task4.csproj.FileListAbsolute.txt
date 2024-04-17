@@ -1,0 +1,15 @@
+D:\Backend\CIS\.NET Test Cis\Task4\bin\Debug\net8.0\Task4.exe
+D:\Backend\CIS\.NET Test Cis\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\Backend\CIS\.NET Test Cis\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\Backend\CIS\.NET Test Cis\Task4\bin\Debug\net8.0\Task4.dll
+D:\Backend\CIS\.NET Test Cis\Task4\bin\Debug\net8.0\Task4.pdb
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.dll
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.pdb
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\Backend\CIS\.NET Test Cis\Task4\obj\Debug\net8.0\ref\Task4.dll
